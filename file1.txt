@@ -1,1 +1,2 @@
 Primul file creat in local
+Prima modificare in git si transmiterea in local
